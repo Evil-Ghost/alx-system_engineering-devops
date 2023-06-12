@@ -1,15 +1,13 @@
 # ALX README TEMPLATE(Replace this with title of the project)
 
-Write what this project is all about. It can be a brief summary of what you are learning and what you will do
-**Note: Delete this note and the paragraph above after**  
-**Important note: escape special characters like * and _ so that it doesn't affect the whole document. You will find examples where it was done if you go through the document. Delete this note after.**
+This project will involve changing Linux file permission using the command `chmod`, changing file owner using the command `chown` and changing the group owner using the command `chgrp`. We will also dive into how to create a user and a group and so on.  
+All task will be attempted using shell scripting
 
 ## Table of contents
 
 - [Overview](#overview)
   - [Completed tasks](#completed-tasks)
   - [Links to task files](#links-to-task-files)
-    - [Links to other files](#links-to-other-files)
 - [Mandatory tasks](#mandatory-tasks)
   - [Task 0](#task-0)
   - [Task 1](#task-1)
@@ -19,12 +17,17 @@ Write what this project is all about. It can be a brief summary of what you are 
   - [Task 5](#task-5)
   - [Task 6](#task-6)
   - [Task 7](#task-7)
-- [Advanced tasks](#advanced-tasks)
   - [Task 8](#task-8)
   - [Task 9](#task-9)
   - [Task 10](#task-10)
   - [Task 11](#task-11)
   - [Task 12](#task-12)
+  - [Task 13](#task-13)
+- [Advanced tasks](#advanced-tasks)
+  - [Task 14](#task-14)
+  - [Task 15](#task-15)
+  - [Task 16](#task-16)
+  - [Task 17](#task-17)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -33,27 +36,30 @@ Write what this project is all about. It can be a brief summary of what you are 
 - [Credits](#credits)
 - [Link to template](#link-to-template)
 
-**Note: you can add or remove table of contents not needed or will be needed like tasks where you have more or less. Remember to add them to the content also with the link as done above. Delete this note after.**
 
 ## Overview
 
 ### Completed tasks
 
 - [x] task 0
-- [ ] task 1
-- [ ] task 2
-- [ ] task 3
-- [ ] task 4
-- [ ] task 5
-- [ ] task 6
-- [ ] task 7
-- [ ] task 8
-- [ ] task 9
-- [ ] task 10
-- [ ] task 11
-- [ ] task 12
+- [x] task 1
+- [x] task 2
+- [x] task 3
+- [x] task 4
+- [x] task 5
+- [x] task 6
+- [x] task 7
+- [x] task 8
+- [x] task 9
+- [x] task 10
+- [x] task 11
+- [x] task 12
+- [x] task 13
+- [x] task 14
+- [x] task 15
+- [x] task 16
+- [x] task 17
 
-**Note: Replace space with x to mark to insert a tick which signifies you have completed the task. Delete this note after.**
 
 ### Links to task files
 
@@ -66,111 +72,130 @@ Write what this project is all about. It can be a brief summary of what you are 
   - [Task 5][Task 5]
   - [Task 6][Task 6]
   - [Task 7][Task 7]
-
-- **Advanced tasks**
   - [Task 8][Task 8]
   - [Task 9][Task 9]
   - [Task 10][Task 10]
   - [Task 11][Task 11]
   - [Task 12][Task 12]
+  - [Task 13][Task 13]
 
-#### Links to other files
-  - [Header file][Header file]
+- **Advanced tasks**
+  - [Task 14][Task 14]
+  - [Task 15][Task 15]
+  - [Task 16][Task 16]
+  - [Task 17][Task 17]
 
-**Note: The extra braces is to the links below. If you add a text at the top remember to put the link below. Follow the format which was used. Delete this note after.**
 
-[Task 0]: ./replace-this-with-file-name
-[Task 1]: ./replace-this-with-file-name
-[Task 2]: ./replace-this-with-file-name
-[Task 3]: ./replace-this-with-file-name
-[Task 4]: ./replace-this-with-file-name
-[Task 5]: ./replace-this-with-file-name
-[Task 6]: ./replace-this-with-file-name
-[Task 7]: ./replace-this-with-file-name
-[Task 8]: ./replace-this-with-file-name
-[Task 9]: ./replace-this-with-file-name
-[Task 10]: ./replace-this-with-file-name
-[Task 11]: ./replace-this-with-file-name
-[Task 12]: ./replace-this-with-file-name
-[Header file]: ./replace-this-with-file-name
+[Task 0]: ./
+[Task 1]: ./
+[Task 2]: ./
+[Task 3]: ./
+[Task 4]: ./
+[Task 5]: ./
+[Task 6]: ./
+[Task 7]: ./
+[Task 8]: ./
+[Task 9]: ./
+[Task 10]: ./
+[Task 11]: ./
+[Task 12]: ./
+[Task 13]: ./
+[Task 14]: ./
+[Task 15]: ./
+[Task 16]: ./
+[Task 17]: ./
 
-**Note: replace `replace-this-file-name` with the name of the task file eg `0-strcat.c`. You can also add links here and reference them using just the name in [brackts]. Delete this note after.**
 
 ## Mandatory tasks
 
 ### Task 0
 
-Write a function that concatenates two strings.  
-- Prototype: char \*\_strcat(char \*dest, char \*src);
-- This function appends the...
-
-**Note: this is just an example you can write whatever you want here. Delete this note after.**
-
-**Task file:** [0-strcat.c][Task 0]
-
-**Note: the paragraph above is just an example. Replace `0-strcat.c` with your own filename if you want to use it. The second braces `[Task 0]` is taken from the links above. It's easier this way than writing the links all over again. Delete this note after.**
+**Task file:** [][Task ]
 
 ### Task 1
 
+**Task file:** [][Task ]
 
 ### Task 2
 
+**Task file:** [][Task ]
 
 ### Task 3
 
+**Task file:** [][Task ]
 
 ### Task 4
 
+**Task file:** [][Task ]
 
 ### Task 5
 
+**Task file:** [][Task ]
 
 ### Task 6
 
+**Task file:** [][Task ]
 
 ### Task 7
 
-
-## Advanced tasks
+**Task file:** [][Task ]
 
 ### Task 8
 
+**Task file:** [][Task ]
 
 ### Task 9
 
+**Task file:** [][Task ]
 
 ### Task 10
 
+**Task file:** [][Task ]
 
 ### Task 11
 
+**Task file:** [][Task ]
 
 ### Task 12
 
+**Task file:** [][Task ]
+
+### Task 13
+
+**Task file:** [][Task ]
+
+## Advanced tasks
+
+### Task 14
+
+**Task file:** [][Task ]
+
+### Task 15
+
+**Task file:** [][Task ]
+
+### Task 16
+
+**Task file:** [][Task ]
+
+### Task 17
+
+**Task file:** [][Task ]
 
 ## My process
 
 ### Built with
 
 - Shell
-- C
-- Python
-- Javascript
-
-**Note: remove and add whatever you used to build this project. Delete this note after**
 
 ### What I learned
 
-I learned about strings...(Replace this paragraph with yours)
-
-**Note: Write what you learned during this project. Delete this note after**
+I learnt about shell permissions using `chmod`, `chown` and `chgrp` commands. I also gained knowledge on root permission using the `sudo` command and others.
 
 ## Author
 
 - ALX - [ALX Africa](https://www.alxafrica.com)
-- Twitter - [_@yourusername_](https://twitter.com/yourusername)
-
-**Note: you are free to add more. Replace `yourusername` with yours. Delete this note after**
+- Twitter - [@Evil\_Ghost\_\_](https://www.twitter.com/evil_ghost__)
 
 ## Acknowledgements
 
